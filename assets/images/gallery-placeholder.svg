@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Gallery image placeholder</title>
+  <desc id="desc">Placeholder for an approved event, academic, or leadership photograph.</desc>
+  <rect width="1200" height="800" fill="#f7f1e8"/>
+  <rect x="54" y="54" width="1092" height="692" fill="#fffdf8" stroke="#ded7cc" stroke-width="4"/>
+  <path d="M180 610 420 360l160 150 130-120 310 220z" fill="#7f1d2d" opacity=".16"/>
+  <circle cx="850" cy="260" r="74" fill="#b78a34" opacity=".25"/>
+  <text x="600" y="690" text-anchor="middle" font-family="Georgia,serif" font-size="46" fill="#102a43">Approved Image Required</text>
+</svg>

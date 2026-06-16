@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait placeholder for Dr. P. R. Sodani</title>
+  <desc id="desc">A restrained editorial placeholder awaiting an approved official portrait.</desc>
+  <rect width="720" height="900" fill="#f7f1e8"/>
+  <rect x="38" y="38" width="644" height="824" fill="#fffdf8" stroke="#ded7cc" stroke-width="2"/>
+  <circle cx="360" cy="320" r="118" fill="#ded7cc"/>
+  <path d="M196 692c28-132 118-204 164-204s136 72 164 204" fill="#7f1d2d" opacity=".18"/>
+  <text x="360" y="760" text-anchor="middle" font-family="Georgia,serif" font-size="38" fill="#102a43">Approved Portrait Required</text>
+  <text x="360" y="812" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#5e6875">Do not replace with stock imagery</text>
+</svg>

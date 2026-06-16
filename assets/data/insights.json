@@ -1,0 +1,23 @@
+[
+  {
+    "title": "[CONTENT REQUIRED] Leadership insight title",
+    "category": "Leadership",
+    "date": "Verification required",
+    "summary": "Approved article, speech, or commentary copy is required.",
+    "url": "insight-template.html"
+  },
+  {
+    "title": "[CONTENT REQUIRED] Public health commentary",
+    "category": "Public Health",
+    "date": "Verification required",
+    "summary": "Use verified published or approved draft content only.",
+    "url": "insight-template.html"
+  },
+  {
+    "title": "[CONTENT REQUIRED] Health economics perspective",
+    "category": "Health Economics",
+    "date": "Verification required",
+    "summary": "Publication date, author approval, and final text required.",
+    "url": "insight-template.html"
+  }
+]

@@ -1,0 +1,166 @@
+html[data-theme="presidential-burgundy"] {
+  --primary: #7f1d2d;
+  --primary-dark: #56131f;
+  --primary-light: #a44a58;
+  --primary-rgb: 127, 29, 45;
+
+  --secondary: #102a43;
+  --secondary-dark: #111923;
+  --secondary-light: #dbe4ec;
+  --secondary-rgb: 16, 42, 67;
+
+  --accent: #b78a34;
+  --accent-soft: #fff8e8;
+  --accent-rgb: 183, 138, 52;
+
+  --link: #7f1d2d;
+
+  --white: #ffffff;
+  --page-bg: #fffdf8;
+  --section-bg: #f7f1e8;
+  --card-bg: #ffffff;
+  --surface-rgb: 255, 255, 255;
+  --page-bg-rgb: 255, 253, 248;
+
+  --text-dark: #17202a;
+  --text-body: #17202a;
+  --text-muted: #5e6875;
+  --text-dark-rgb: 23, 32, 42;
+
+  --border-light: #ded7cc;
+  --border-strong: #cfc7bc;
+
+  --shadow-soft: 0 12px 30px rgba(23, 32, 42, 0.05);
+  --shadow-card: 0 18px 45px rgba(23, 32, 42, 0.09);
+
+  --footer-bg: #111923;
+  --footer-text: #f2ede4;
+  --footer-link: #f2dca2;
+
+  --notice-bg: #fff8e8;
+  --success: #1d6b43;
+}
+
+html[data-theme="global-academic-blue"] {
+  --primary: #002d72;
+  --primary-dark: #001f4f;
+  --primary-light: #164a8a;
+  --primary-rgb: 0, 45, 114;
+
+  --secondary: #4d8fc5;
+  --secondary-dark: #17304d;
+  --secondary-light: #b7d6ef;
+  --secondary-rgb: 77, 143, 197;
+
+  --accent: #c7a44a;
+  --accent-soft: #e8d9a6;
+  --accent-rgb: 199, 164, 74;
+
+  --link: #006fc4;
+
+  --white: #ffffff;
+  --page-bg: #f7f9fc;
+  --section-bg: #eef4fa;
+  --card-bg: #ffffff;
+  --surface-rgb: 255, 255, 255;
+  --page-bg-rgb: 247, 249, 252;
+
+  --text-dark: #111827;
+  --text-body: #374151;
+  --text-muted: #667085;
+  --text-dark-rgb: 17, 24, 39;
+
+  --border-light: #d9e2ec;
+  --border-strong: #b8c8d8;
+
+  --shadow-soft: 0 10px 30px rgba(0, 45, 114, 0.08);
+  --shadow-card: 0 16px 42px rgba(0, 45, 114, 0.13);
+
+  --footer-bg: #0f213a;
+  --footer-text: #edf3f8;
+  --footer-link: #d8be72;
+
+  --notice-bg: #f7f2df;
+  --success: #186c52;
+}
+
+html[data-theme="heritage-emerald"] {
+  --primary: #0d463b;
+  --primary-dark: #082e27;
+  --primary-light: #1a6657;
+  --primary-rgb: 13, 70, 59;
+
+  --secondary: #263238;
+  --secondary-dark: #182126;
+  --secondary-light: #d7e1dc;
+  --secondary-rgb: 38, 50, 56;
+
+  --accent: #b6874b;
+  --accent-soft: #dec6a5;
+  --accent-rgb: 182, 135, 75;
+
+  --link: #17695a;
+
+  --white: #ffffff;
+  --page-bg: #faf9f5;
+  --section-bg: #f0f4f1;
+  --card-bg: #ffffff;
+  --surface-rgb: 255, 255, 255;
+  --page-bg-rgb: 250, 249, 245;
+
+  --text-dark: #18201e;
+  --text-body: #3e4946;
+  --text-muted: #68736f;
+  --text-dark-rgb: 24, 32, 30;
+
+  --border-light: #dce4df;
+  --border-strong: #bccac3;
+
+  --shadow-soft: 0 10px 30px rgba(13, 70, 59, 0.08);
+  --shadow-card: 0 18px 45px rgba(13, 70, 59, 0.13);
+
+  --footer-bg: #17231f;
+  --footer-text: #eef1eb;
+  --footer-link: #ddbf92;
+
+  --notice-bg: #f7efe2;
+  --success: #1f7456;
+}
+
+:root,
+html[data-theme] {
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-dark);
+  --color-primary-soft: var(--primary-light);
+  --color-secondary: var(--secondary);
+  --color-secondary-strong: var(--secondary-dark);
+  --color-secondary-soft: var(--secondary-light);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-background: var(--page-bg);
+  --color-section: var(--section-bg);
+  --color-surface: var(--card-bg);
+  --color-heading: var(--text-dark);
+  --color-text: var(--text-body);
+  --color-muted: var(--text-muted);
+  --color-border: var(--border-light);
+  --color-border-strong: var(--border-strong);
+  --color-link: var(--link, var(--primary));
+  --color-focus: var(--accent);
+  --color-focus-ring: rgba(var(--accent-rgb), 0.75);
+  --color-header-bg: rgba(var(--page-bg-rgb), 0.95);
+  --color-hero-glow: rgba(var(--accent-rgb), 0.18);
+  --color-hero-accent: rgba(var(--primary-rgb), 0.08);
+  --color-hero-overlay: rgba(var(--page-bg-rgb), 0.86);
+  --color-hero-overlay-strong: rgba(var(--page-bg-rgb), 0.98);
+  --color-panel-bg: rgba(var(--surface-rgb), 0.66);
+  --color-shadow-rgb: var(--text-dark-rgb);
+  --color-overlay: rgba(var(--text-dark-rgb), 0.78);
+  --color-notice-bg: var(--notice-bg);
+  --color-success: var(--success);
+  --color-footer-bg: var(--footer-bg);
+  --color-footer-text: var(--footer-text);
+  --color-footer-link: var(--footer-link);
+  --box-shadow-soft: var(--shadow-soft);
+  --box-shadow-card: var(--shadow-card);
+}

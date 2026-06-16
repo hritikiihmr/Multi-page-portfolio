@@ -1,0 +1,20 @@
+[
+  {
+    "title": "[CONTENT REQUIRED] Academic leadership photograph",
+    "category": "Leadership",
+    "caption": "Approved caption, date, location, and photographer credit required.",
+    "src": "assets/images/gallery-placeholder.svg"
+  },
+  {
+    "title": "[CONTENT REQUIRED] Global engagement photograph",
+    "category": "Global Engagement",
+    "caption": "Approved image and caption required before publication.",
+    "src": "assets/images/gallery-placeholder.svg"
+  },
+  {
+    "title": "[CONTENT REQUIRED] Speaking photograph",
+    "category": "Speaking",
+    "caption": "Event name, year, host, and usage rights required.",
+    "src": "assets/images/gallery-placeholder.svg"
+  }
+]

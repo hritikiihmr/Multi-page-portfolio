@@ -1,0 +1,32 @@
+[
+  {
+    "title": "[CONTENT REQUIRED] Featured book title",
+    "authors": "P. R. Sodani [VERIFICATION REQUIRED]",
+    "source": "[CONTENT REQUIRED]",
+    "year": "Verification required",
+    "type": "Book",
+    "topic": "Health Economics",
+    "link": "",
+    "abstract": "Official book metadata, publisher, year, ISBN, and cover asset are required before publication."
+  },
+  {
+    "title": "[CONTENT REQUIRED] Selected publication title",
+    "authors": "[CONTENT REQUIRED]",
+    "source": "[CONTENT REQUIRED]",
+    "year": "Verification required",
+    "type": "Journal Article",
+    "topic": "Health Financing",
+    "link": "",
+    "abstract": "Add only verified publication details. This demo labels the list as selected, not complete."
+  },
+  {
+    "title": "[CONTENT REQUIRED] Policy or report title",
+    "authors": "[CONTENT REQUIRED]",
+    "source": "[CONTENT REQUIRED]",
+    "year": "Verification required",
+    "type": "Report",
+    "topic": "Health Systems",
+    "link": "",
+    "abstract": "Evidence link and source verification required."
+  }
+]
